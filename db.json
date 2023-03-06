@@ -15,6 +15,14 @@
       "phone": "07082575662",
       "address": "100 Kingswill Way",
       "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Timilehin Victor Falade",
+      "email": "omogbemisarah@gmail.com",
+      "phone": "07082575662",
+      "address": "100 Kingswill Way",
+      "isActive": true
     }
   ],
   "comments": [

@@ -11,4 +11,5 @@ Delete an existing employee record
 # Getting Started
 
 To use this component in your project, you will need to have React installed. Once you have React installed, you can simply import the component into your project and use it as needed.
-Run npm run start and json-server --watch db.json --port 8000
+Run npm run start
+json-server --watch db.json --port 8000
