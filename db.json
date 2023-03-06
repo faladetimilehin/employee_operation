@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Timilehin Falade",
+      "email": "Faladetimilehin@yahoo.com",
+      "phone": "08087240516",
+      "address": "70 ALh otta street mushin",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Sarah Falade",
+      "email": "omogbemisarah@gmail.com",
+      "phone": "07082575662",
+      "address": "100 Kingswill Way",
+      "isActive": true
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
